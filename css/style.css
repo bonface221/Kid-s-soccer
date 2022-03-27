@@ -26,6 +26,7 @@ header .logo {
     font-size: 3rem;
     margin-left: 1rem;
     color: gray;
+    font-weight: bold;
 
 }
 
@@ -189,11 +190,22 @@ p{
     
 }
 @media screen and (max-width:400px) {
-    
-
+    #menu-bar {
+        font-size: 2.4rem;
+        align-items: center;
+        padding: .2rem 1.5rem .4rem 0;
+        color: gray;
+        
+    }
+    header .logo{
+        font-size: 2.3rem;
+    }
+    header .logo i{
+        font-size: 1.9rem;
+    }
     .section h2 {
         font-size: 1.8rem;
-        padding-top: .5rem;
+        padding-top: 0;
     }
     .section p{
         font-size: 1.2rem;
