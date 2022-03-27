@@ -2,7 +2,7 @@
 ## Description
  Simple responsive image gallery of kids soccer
 
-![image](./images/kid's-landing-page.png)
+![image](./images/kid's-landing-page%20.png)
 
 ## Installation requirements
 You don't need to install anything you only need internet connection
